@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}/**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\**",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\SDK\\ScopeCppSDK\\VC\\include\\**",
+                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\cores\\arduino\\Arduino.h"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceFolder}",
+                    "C:\\ProgramFiles (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\ProgramFiles (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src",
+                    "C:\\ProgramFiles (x86)\\Arduino\\libraries\\SD",
+                    "C:\\Program Files (x86)\\Arduino\\libraries",
+                    "C:\\ProgramFiles (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI",
+                    "C:\\ProgramFiles (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire",
+                    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\SDK\\ScopeCppSDK\\VC\\include"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
