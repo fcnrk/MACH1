@@ -9,7 +9,8 @@
                 "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
                 "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\**",
                 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\SDK\\ScopeCppSDK\\VC\\include\\**",
-                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries"
+                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries",
+                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries\\**"
             ],
             "forcedInclude": [
                 "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\cores\\arduino\\Arduino.h"
