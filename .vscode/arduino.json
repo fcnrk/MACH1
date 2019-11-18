@@ -1,4 +1,5 @@
 {
     "board": "arduino:sam:arduino_due_x_dbg",
-    "sketch": "Mach1_sketch.ino"
+    "sketch": "Mach1_sketch/Mach1_sketch.ino",
+    "port": "/dev/cu.usbmodem141101"
 }

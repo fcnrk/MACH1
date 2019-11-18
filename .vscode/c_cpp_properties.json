@@ -10,10 +10,15 @@
                 "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\**",
                 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Enterprise\\SDK\\ScopeCppSDK\\VC\\include\\**",
                 "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries",
-                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries\\**"
+                "C:\\Users\\fikretcan.erken\\source\\repos\\mach1\\libraries\\**",
+                "/Users/ferken/Library/Arduino15/packages/arduino/hardware/sam/1.6.12/**",
+                "/Users/ferken/Library/Arduino15/packages/arduino/tools/**",
+                "/Users/ferken/Library/Arduino15/packages/esp8266/hardware/esp8266/2.6.0/**",
+                "/Users/ferken/Library/Arduino15/packages/esp8266/tools/**"
             ],
             "forcedInclude": [
-                "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\cores\\arduino\\Arduino.h"
+                "C:\\Users\\fikretcan.erken\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\sam\\1.6.12\\cores\\arduino\\Arduino.h",
+                "/Users/ferken/Library/Arduino15/packages/arduino/hardware/sam/1.6.12/cores/arduino/Arduino.h"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": false,
@@ -31,6 +36,18 @@
             "intelliSenseMode": "msvc-x64",
             "cStandard": "c11",
             "cppStandard": "c++17"
+        },
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/ferken/Library/Arduino15/packages/arduino/tools/**",
+                "/Users/ferken/Library/Arduino15/packages/arduino/hardware/sam/1.6.12/**",
+                "/Users/ferken/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/ferken/Library/Arduino15/packages/esp8266/hardware/esp8266/2.6.0/**"
+            ],
+            "forcedInclude": [
+                "/Users/ferken/Library/Arduino15/packages/arduino/hardware/sam/1.6.12/cores/arduino/Arduino.h"
+            ]
         }
     ],
     "version": 4
